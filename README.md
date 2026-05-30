@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sensual-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deep Sensual Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-night/) |
+| **Get License** | [Commercial Licensing for Deep Sensual Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling soft across the wooden floor
+> I never wanted any moment with you more
+> Just the quiet of the night and amber light
+> Wrapped around us till the stars are out of sight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
